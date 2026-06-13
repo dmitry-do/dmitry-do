@@ -59,7 +59,7 @@
   <text x="42" y="530" fill="#C9D1D9" clip-path="url(#skl16)" xml:space="preserve">Learning (ML)</text>
   <text x="24" y="552" clip-path="url(#rev3)" xml:space="preserve"><tspan fill="#56606E">$ </tspan><tspan fill="#D97757">sudo make coffee</tspan></text>
   <text x="24" y="574" fill="#E6B450" clip-path="url(#out_perm)" xml:space="preserve">permission granted. brewing... ☕️</text>
-  <text x="24" y="596" fill="#E78BAE" clip-path="url(#out_sess)" xml:space="preserve">└ You've hit your session limit · resets 2:30am (Europe/Amsterdam)</text>
+  <text x="24" y="596" fill="#E78BAE" clip-path="url(#out_sess)" xml:space="preserve">└ You've hit your session limit · resets 9:00am (Europe/Amsterdam)</text>
   <text x="24" y="618" clip-path="url(#rev4)" xml:space="preserve"><tspan fill="#56606E">$ </tspan><tspan fill="#D97757">exit</tspan></text>
   <text x="24" y="640" clip-path="url(#out_thanks)" xml:space="preserve"><tspan fill="#56606E">&gt; </tspan><tspan fill="#8B949E">thanks for stopping by. ping me if you want to build something.</tspan></text>
   <text x="24" y="662" xml:space="preserve"><tspan fill="#56606E">$ </tspan><tspan fill="#D97757">█<animate attributeName="opacity" values="1;1;0;0" dur="1.16s" repeatCount="indefinite"/></tspan></text>
