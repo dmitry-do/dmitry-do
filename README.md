@@ -4,6 +4,10 @@
 
 </div>
 
+
+---
+
+
 ```shell
 $ whoami
 Dmitry, Product Manager
