@@ -29,7 +29,11 @@ You've hit your session limit · resets 2:30am (Europe/Amsterdam)
 
 </details>
 
+<details>
+<summary>☕ <code>$ exit</code></summary>
+
 ```text
-$ exit
-> thanks for stopping by. ping me if you want to build something.
+thanks for stopping by. ping me if you want to build something.```
 ```
+
+</details>
