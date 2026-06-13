@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 706" width="620" role="img" aria-label="Animated terminal that types whoami, ls focus, ls skills, sudo make coffee, and exit, prints the full skills list and a session-limit notice, with a bypass-permissions footer.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 706" width="620" role="img" aria-label="Animated terminal window titled ~/dmitry-do --dangerously-skip-permissions. It types whoami, ls focus, ls skills, sudo make coffee, and exit. Each command output also types in, line by line, ending with a bypass-permissions footer.">
   <rect x="1" y="1" width="618" height="704" rx="12" fill="#0A0E14" stroke="#1E2530" stroke-width="1"/>
   <circle cx="26" cy="24" r="6" fill="#FF5F56"/>
   <circle cx="48" cy="24" r="6" fill="#FFBD2E"/>
   <circle cx="70" cy="24" r="6" fill="#27C93F"/>
+  <text x="310" y="28" text-anchor="middle" fill="#8B949E" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" xml:space="preserve">~/dmitry-do --dangerously-skip-permissions</text>
   <line x1="16" y1="44" x2="604" y2="44" stroke="#161C26" stroke-width="1"/>
   <defs>
   <clipPath id="rev0"><rect x="22" y="55" width="73" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.0131;0.0314;1" values="0;0;73;73"/></rect></clipPath>
@@ -10,37 +11,57 @@
   <clipPath id="rev2"><rect x="22" y="143" width="118" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.2541;0.2878;1" values="0;0;118;118"/></rect></clipPath>
   <clipPath id="rev3"><rect x="22" y="539" width="157" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.7376;0.7865;1" values="0;0;157;157"/></rect></clipPath>
   <clipPath id="rev4"><rect x="22" y="605" width="56" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.8913;0.9035;1" values="0;0;56;56"/></rect></clipPath>
+  <clipPath id="out_whoami"><rect x="22" y="77" width="58" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.0314;0.0423;1" values="0;0;58;58"/></rect></clipPath>
+  <clipPath id="out_focus"><rect x="22" y="121" width="144" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.1581;0.1747;1" values="0;0;144;144"/></rect></clipPath>
+  <clipPath id="skl0"><rect x="22" y="165" width="440" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.2878;0.3070;1" values="0;0;440;440"/></rect></clipPath>
+  <clipPath id="skl1"><rect x="40" y="187" width="472" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.2952;0.3158;1" values="0;0;472;472"/></rect></clipPath>
+  <clipPath id="skl2"><rect x="40" y="209" width="464" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.3026;0.3229;1" values="0;0;464;464"/></rect></clipPath>
+  <clipPath id="skl3"><rect x="22" y="231" width="486" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.3101;0.3313;1" values="0;0;486;486"/></rect></clipPath>
+  <clipPath id="skl4"><rect x="40" y="253" width="456" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.3175;0.3374;1" values="0;0;456;456"/></rect></clipPath>
+  <clipPath id="skl5"><rect x="40" y="275" width="406" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.3249;0.3426;1" values="0;0;406;406"/></rect></clipPath>
+  <clipPath id="skl6"><rect x="40" y="297" width="228" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.3323;0.3423;1" values="0;0;228;228"/></rect></clipPath>
+  <clipPath id="skl7"><rect x="22" y="319" width="510" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.3398;0.3620;1" values="0;0;510;510"/></rect></clipPath>
+  <clipPath id="skl8"><rect x="40" y="341" width="480" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.3472;0.3682;1" values="0;0;480;480"/></rect></clipPath>
+  <clipPath id="skl9"><rect x="40" y="363" width="262" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.3546;0.3661;1" values="0;0;262;262"/></rect></clipPath>
+  <clipPath id="skl10"><rect x="22" y="385" width="398" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.3620;0.3794;1" values="0;0;398;398"/></rect></clipPath>
+  <clipPath id="skl11"><rect x="40" y="407" width="448" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.3695;0.3890;1" values="0;0;448;448"/></rect></clipPath>
+  <clipPath id="skl12"><rect x="40" y="429" width="490" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.3769;0.3983;1" values="0;0;490;490"/></rect></clipPath>
+  <clipPath id="skl13"><rect x="22" y="451" width="464" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.3843;0.4046;1" values="0;0;464;464"/></rect></clipPath>
+  <clipPath id="skl14"><rect x="40" y="473" width="490" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.3917;0.4131;1" values="0;0;490;490"/></rect></clipPath>
+  <clipPath id="skl15"><rect x="40" y="495" width="406" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.3992;0.4169;1" values="0;0;406;406"/></rect></clipPath>
+  <clipPath id="skl16"><rect x="40" y="517" width="120" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.4066;0.4118;1" values="0;0;120;120"/></rect></clipPath>
+  <clipPath id="out_perm"><rect x="22" y="561" width="300" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.7865;0.8092;1" values="0;0;300;300"/></rect></clipPath>
+  <clipPath id="out_sess"><rect x="22" y="583" width="566" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.81;0.8432;1" values="0;0;566;566"/></rect></clipPath>
+  <clipPath id="out_thanks"><rect x="22" y="627" width="556" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.9035;0.9358;1" values="0;0;556;556"/></rect></clipPath>
   </defs>
   <g font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="14">
   <text x="24" y="68" clip-path="url(#rev0)" xml:space="preserve"><tspan fill="#56606E">$ </tspan><tspan fill="#D97757">whoami</tspan></text>
-  <text x="24" y="90" fill="#E6EDF3" opacity="1" xml:space="preserve">Dmitry<animate attributeName="opacity" dur="22900ms" repeatCount="indefinite" keyTimes="0;0.0314;0.0402;1" values="0;0;1;1"/></text>
+  <text x="24" y="90" fill="#E6EDF3" clip-path="url(#out_whoami)" xml:space="preserve">Dmitry</text>
   <text x="24" y="112" clip-path="url(#rev1)" xml:space="preserve"><tspan fill="#56606E">$ </tspan><tspan fill="#D97757">ls ~/focus</tspan></text>
-  <text x="24" y="134" fill="#C9D1D9" opacity="1" xml:space="preserve">ai  product  web<animate attributeName="opacity" dur="22900ms" repeatCount="indefinite" keyTimes="0;0.1581;0.1668;1" values="0;0;1;1"/></text>
+  <text x="24" y="134" fill="#C9D1D9" clip-path="url(#out_focus)" xml:space="preserve">ai  product  web</text>
   <text x="24" y="156" clip-path="url(#rev2)" xml:space="preserve"><tspan fill="#56606E">$ </tspan><tspan fill="#D97757">ls ~/skills</tspan></text>
-  <g opacity="1"><animate attributeName="opacity" dur="22900ms" repeatCount="indefinite" keyTimes="0;0.2878;0.3009;1" values="0;0;1;1"/>
-  <text x="24" y="178" xml:space="preserve"><tspan font-weight="700" fill="#E6EDF3">🤖 AI &amp; Data:</tspan><tspan fill="#C9D1D9"> Agentic AI, LLMs, Prompt Engineering,</tspan></text>
-  <text x="42" y="200" fill="#C9D1D9" xml:space="preserve">AI Prototyping, Machine Learning, Evals, Data Analysis,</text>
-  <text x="42" y="222" fill="#C9D1D9" xml:space="preserve">Data Visualization, BigQuery, SQL, GDPR &amp; Data Privacy</text>
-  <text x="24" y="244" xml:space="preserve"><tspan font-weight="700" fill="#E6EDF3">🧭 Product:</tspan><tspan fill="#C9D1D9"> Product Management, Strategy, Product-Market</tspan></text>
-  <text x="42" y="266" fill="#C9D1D9" xml:space="preserve">Fit, 0-to-1 Development, MVPs, PRDs, Product Launch &amp;</text>
-  <text x="42" y="288" fill="#C9D1D9" xml:space="preserve">Scaling, Roadmap Prioritization, User Research,</text>
-  <text x="42" y="310" fill="#C9D1D9" xml:space="preserve">Competitive Analysis, DevX</text>
-  <text x="24" y="332" xml:space="preserve"><tspan font-weight="700" fill="#E6EDF3">📈 Growth:</tspan><tspan fill="#C9D1D9"> CRO, A/B Testing &amp; Experimentation, Go-to-Market</tspan></text>
-  <text x="42" y="354" fill="#C9D1D9" xml:space="preserve">Strategy, Pricing &amp; Monetization, SEO, Google Analytics,</text>
-  <text x="42" y="376" fill="#C9D1D9" xml:space="preserve">Optimizely, Google Tag Manager</text>
-  <text x="24" y="398" xml:space="preserve"><tspan font-weight="700" fill="#E6EDF3">🤝 Leadership:</tspan><tspan fill="#C9D1D9"> Cross-Functional Collaboration,</tspan></text>
-  <text x="42" y="420" fill="#C9D1D9" xml:space="preserve">Stakeholder Management, Influence Without Authority,</text>
-  <text x="42" y="442" fill="#C9D1D9" xml:space="preserve">Team Building &amp; Scaling, Agile/Scrum, Enterprise B2B SaaS</text>
-  <text x="24" y="464" xml:space="preserve"><tspan font-weight="700" fill="#E6EDF3">🧰 Technical:</tspan><tspan fill="#C9D1D9"> Developer Tools (IDEs, SDKs, CLIs, APIs,</tspan></text>
-  <text x="42" y="486" fill="#C9D1D9" xml:space="preserve">Platforms), Claude Code, Codex, Open Source, A/B Testing,</text>
-  <text x="42" y="508" fill="#C9D1D9" xml:space="preserve">CMS &amp; Self-Serve Platforms, JavaScript, Machine</text>
-  <text x="42" y="530" fill="#C9D1D9" xml:space="preserve">Learning (ML)</text>
-  </g>
+  <text x="24" y="178" clip-path="url(#skl0)" xml:space="preserve"><tspan font-weight="700" fill="#E6EDF3">🤖 AI &amp; Data:</tspan><tspan fill="#C9D1D9"> Agentic AI, LLMs, Prompt Engineering,</tspan></text>
+  <text x="42" y="200" fill="#C9D1D9" clip-path="url(#skl1)" xml:space="preserve">AI Prototyping, Machine Learning, Evals, Data Analysis,</text>
+  <text x="42" y="222" fill="#C9D1D9" clip-path="url(#skl2)" xml:space="preserve">Data Visualization, BigQuery, SQL, GDPR &amp; Data Privacy</text>
+  <text x="24" y="244" clip-path="url(#skl3)" xml:space="preserve"><tspan font-weight="700" fill="#E6EDF3">🧭 Product:</tspan><tspan fill="#C9D1D9"> Product Management, Strategy, Product-Market</tspan></text>
+  <text x="42" y="266" fill="#C9D1D9" clip-path="url(#skl4)" xml:space="preserve">Fit, 0-to-1 Development, MVPs, PRDs, Product Launch &amp;</text>
+  <text x="42" y="288" fill="#C9D1D9" clip-path="url(#skl5)" xml:space="preserve">Scaling, Roadmap Prioritization, User Research,</text>
+  <text x="42" y="310" fill="#C9D1D9" clip-path="url(#skl6)" xml:space="preserve">Competitive Analysis, DevX</text>
+  <text x="24" y="332" clip-path="url(#skl7)" xml:space="preserve"><tspan font-weight="700" fill="#E6EDF3">📈 Growth:</tspan><tspan fill="#C9D1D9"> CRO, A/B Testing &amp; Experimentation, Go-to-Market</tspan></text>
+  <text x="42" y="354" fill="#C9D1D9" clip-path="url(#skl8)" xml:space="preserve">Strategy, Pricing &amp; Monetization, SEO, Google Analytics,</text>
+  <text x="42" y="376" fill="#C9D1D9" clip-path="url(#skl9)" xml:space="preserve">Optimizely, Google Tag Manager</text>
+  <text x="24" y="398" clip-path="url(#skl10)" xml:space="preserve"><tspan font-weight="700" fill="#E6EDF3">🤝 Leadership:</tspan><tspan fill="#C9D1D9"> Cross-Functional Collaboration,</tspan></text>
+  <text x="42" y="420" fill="#C9D1D9" clip-path="url(#skl11)" xml:space="preserve">Stakeholder Management, Influence Without Authority,</text>
+  <text x="42" y="442" fill="#C9D1D9" clip-path="url(#skl12)" xml:space="preserve">Team Building &amp; Scaling, Agile/Scrum, Enterprise B2B SaaS</text>
+  <text x="24" y="464" clip-path="url(#skl13)" xml:space="preserve"><tspan font-weight="700" fill="#E6EDF3">🧰 Technical:</tspan><tspan fill="#C9D1D9"> Developer Tools (IDEs, SDKs, CLIs, APIs,</tspan></text>
+  <text x="42" y="486" fill="#C9D1D9" clip-path="url(#skl14)" xml:space="preserve">Platforms), Claude Code, Codex, Open Source, A/B Testing,</text>
+  <text x="42" y="508" fill="#C9D1D9" clip-path="url(#skl15)" xml:space="preserve">CMS &amp; Self-Serve Platforms, JavaScript, Machine</text>
+  <text x="42" y="530" fill="#C9D1D9" clip-path="url(#skl16)" xml:space="preserve">Learning (ML)</text>
   <text x="24" y="552" clip-path="url(#rev3)" xml:space="preserve"><tspan fill="#56606E">$ </tspan><tspan fill="#D97757">sudo make coffee</tspan></text>
-  <text x="24" y="574" fill="#E6B450" opacity="1" xml:space="preserve">permission granted. brewing... ☕️<animate attributeName="opacity" dur="22900ms" repeatCount="indefinite" keyTimes="0;0.7865;0.7952;1" values="0;0;1;1"/></text>
-  <text x="24" y="596" fill="#E78BAE" opacity="1" xml:space="preserve">└ You've hit your session limit · resets 2:30am (Europe/Amsterdam)<animate attributeName="opacity" dur="22900ms" repeatCount="indefinite" keyTimes="0;0.7952;0.8039;1" values="0;0;1;1"/></text>
+  <text x="24" y="574" fill="#E6B450" clip-path="url(#out_perm)" xml:space="preserve">permission granted. brewing... ☕️</text>
+  <text x="24" y="596" fill="#E78BAE" clip-path="url(#out_sess)" xml:space="preserve">└ You've hit your session limit · resets 2:30am (Europe/Amsterdam)</text>
   <text x="24" y="618" clip-path="url(#rev4)" xml:space="preserve"><tspan fill="#56606E">$ </tspan><tspan fill="#D97757">exit</tspan></text>
-  <text x="24" y="640" opacity="1" xml:space="preserve"><tspan fill="#56606E">&gt; </tspan><tspan fill="#8B949E">thanks for stopping by. ping me if you want to build something.</tspan><animate attributeName="opacity" dur="22900ms" repeatCount="indefinite" keyTimes="0;0.9035;0.9122;1" values="0;0;1;1"/></text>
+  <text x="24" y="640" clip-path="url(#out_thanks)" xml:space="preserve"><tspan fill="#56606E">&gt; </tspan><tspan fill="#8B949E">thanks for stopping by. ping me if you want to build something.</tspan></text>
   <text x="24" y="662" xml:space="preserve"><tspan fill="#56606E">$ </tspan><tspan fill="#D97757">█<animate attributeName="opacity" values="1;1;0;0" dur="1.16s" repeatCount="indefinite"/></tspan></text>
   <text x="24" y="690" fill="#E78BAE" xml:space="preserve">⏵⏵ bypass permissions on</text>
   </g>
