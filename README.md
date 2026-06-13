@@ -6,10 +6,10 @@
 
 ```shell
 $ whoami
-Dmitry
+Dmitry, Product Manager
 
 $ ls ~/focus
-ai  product  web
+ai  software  web
 
 $ ls ~/skills
 🤖 AI & Data: Agentic AI, LLMs, Prompt Engineering, AI Prototyping, Machine Learning,
