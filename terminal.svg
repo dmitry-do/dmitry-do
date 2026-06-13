@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 706" width="620" role="img" aria-label="Animated terminal that types whoami, ls focus, ls skills, sudo make coffee, and exit, prints the full skills list and a session-limit notice, with a bypass-permissions footer.">
+  <rect x="1" y="1" width="618" height="704" rx="12" fill="#0A0E14" stroke="#1E2530" stroke-width="1"/>
+  <circle cx="26" cy="24" r="6" fill="#FF5F56"/>
+  <circle cx="48" cy="24" r="6" fill="#FFBD2E"/>
+  <circle cx="70" cy="24" r="6" fill="#27C93F"/>
+  <line x1="16" y1="44" x2="604" y2="44" stroke="#161C26" stroke-width="1"/>
+  <defs>
+  <clipPath id="rev0"><rect x="22" y="55" width="73" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.0131;0.0314;1" values="0;0;73;73"/></rect></clipPath>
+  <clipPath id="rev1"><rect x="22" y="99" width="107" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.1275;0.1581;1" values="0;0;107;107"/></rect></clipPath>
+  <clipPath id="rev2"><rect x="22" y="143" width="118" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.2541;0.2878;1" values="0;0;118;118"/></rect></clipPath>
+  <clipPath id="rev3"><rect x="22" y="539" width="157" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.7376;0.7865;1" values="0;0;157;157"/></rect></clipPath>
+  <clipPath id="rev4"><rect x="22" y="605" width="56" height="20"><animate attributeName="width" dur="22900ms" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.8913;0.9035;1" values="0;0;56;56"/></rect></clipPath>
+  </defs>
+  <g font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="14">
+  <text x="24" y="68" clip-path="url(#rev0)" xml:space="preserve"><tspan fill="#56606E">$ </tspan><tspan fill="#D97757">whoami</tspan></text>
+  <text x="24" y="90" fill="#E6EDF3" opacity="1" xml:space="preserve">Dmitry<animate attributeName="opacity" dur="22900ms" repeatCount="indefinite" keyTimes="0;0.0314;0.0402;1" values="0;0;1;1"/></text>
+  <text x="24" y="112" clip-path="url(#rev1)" xml:space="preserve"><tspan fill="#56606E">$ </tspan><tspan fill="#D97757">ls ~/focus</tspan></text>
+  <text x="24" y="134" fill="#C9D1D9" opacity="1" xml:space="preserve">ai  product  web<animate attributeName="opacity" dur="22900ms" repeatCount="indefinite" keyTimes="0;0.1581;0.1668;1" values="0;0;1;1"/></text>
+  <text x="24" y="156" clip-path="url(#rev2)" xml:space="preserve"><tspan fill="#56606E">$ </tspan><tspan fill="#D97757">ls ~/skills</tspan></text>
+  <g opacity="1"><animate attributeName="opacity" dur="22900ms" repeatCount="indefinite" keyTimes="0;0.2878;0.3009;1" values="0;0;1;1"/>
+  <text x="24" y="178" xml:space="preserve"><tspan font-weight="700" fill="#E6EDF3">🤖 AI &amp; Data:</tspan><tspan fill="#C9D1D9"> Agentic AI, LLMs, Prompt Engineering,</tspan></text>
+  <text x="42" y="200" fill="#C9D1D9" xml:space="preserve">AI Prototyping, Machine Learning, Evals, Data Analysis,</text>
+  <text x="42" y="222" fill="#C9D1D9" xml:space="preserve">Data Visualization, BigQuery, SQL, GDPR &amp; Data Privacy</text>
+  <text x="24" y="244" xml:space="preserve"><tspan font-weight="700" fill="#E6EDF3">🧭 Product:</tspan><tspan fill="#C9D1D9"> Product Management, Strategy, Product-Market</tspan></text>
+  <text x="42" y="266" fill="#C9D1D9" xml:space="preserve">Fit, 0-to-1 Development, MVPs, PRDs, Product Launch &amp;</text>
+  <text x="42" y="288" fill="#C9D1D9" xml:space="preserve">Scaling, Roadmap Prioritization, User Research,</text>
+  <text x="42" y="310" fill="#C9D1D9" xml:space="preserve">Competitive Analysis, DevX</text>
+  <text x="24" y="332" xml:space="preserve"><tspan font-weight="700" fill="#E6EDF3">📈 Growth:</tspan><tspan fill="#C9D1D9"> CRO, A/B Testing &amp; Experimentation, Go-to-Market</tspan></text>
+  <text x="42" y="354" fill="#C9D1D9" xml:space="preserve">Strategy, Pricing &amp; Monetization, SEO, Google Analytics,</text>
+  <text x="42" y="376" fill="#C9D1D9" xml:space="preserve">Optimizely, Google Tag Manager</text>
+  <text x="24" y="398" xml:space="preserve"><tspan font-weight="700" fill="#E6EDF3">🤝 Leadership:</tspan><tspan fill="#C9D1D9"> Cross-Functional Collaboration,</tspan></text>
+  <text x="42" y="420" fill="#C9D1D9" xml:space="preserve">Stakeholder Management, Influence Without Authority,</text>
+  <text x="42" y="442" fill="#C9D1D9" xml:space="preserve">Team Building &amp; Scaling, Agile/Scrum, Enterprise B2B SaaS</text>
+  <text x="24" y="464" xml:space="preserve"><tspan font-weight="700" fill="#E6EDF3">🧰 Technical:</tspan><tspan fill="#C9D1D9"> Developer Tools (IDEs, SDKs, CLIs, APIs,</tspan></text>
+  <text x="42" y="486" fill="#C9D1D9" xml:space="preserve">Platforms), Claude Code, Codex, Open Source, A/B Testing,</text>
+  <text x="42" y="508" fill="#C9D1D9" xml:space="preserve">CMS &amp; Self-Serve Platforms, JavaScript, Machine</text>
+  <text x="42" y="530" fill="#C9D1D9" xml:space="preserve">Learning (ML)</text>
+  </g>
+  <text x="24" y="552" clip-path="url(#rev3)" xml:space="preserve"><tspan fill="#56606E">$ </tspan><tspan fill="#D97757">sudo make coffee</tspan></text>
+  <text x="24" y="574" fill="#E6B450" opacity="1" xml:space="preserve">permission granted. brewing... ☕️<animate attributeName="opacity" dur="22900ms" repeatCount="indefinite" keyTimes="0;0.7865;0.7952;1" values="0;0;1;1"/></text>
+  <text x="24" y="596" fill="#E78BAE" opacity="1" xml:space="preserve">└ You've hit your session limit · resets 2:30am (Europe/Amsterdam)<animate attributeName="opacity" dur="22900ms" repeatCount="indefinite" keyTimes="0;0.7952;0.8039;1" values="0;0;1;1"/></text>
+  <text x="24" y="618" clip-path="url(#rev4)" xml:space="preserve"><tspan fill="#56606E">$ </tspan><tspan fill="#D97757">exit</tspan></text>
+  <text x="24" y="640" opacity="1" xml:space="preserve"><tspan fill="#56606E">&gt; </tspan><tspan fill="#8B949E">thanks for stopping by. ping me if you want to build something.</tspan><animate attributeName="opacity" dur="22900ms" repeatCount="indefinite" keyTimes="0;0.9035;0.9122;1" values="0;0;1;1"/></text>
+  <text x="24" y="662" xml:space="preserve"><tspan fill="#56606E">$ </tspan><tspan fill="#D97757">█<animate attributeName="opacity" values="1;1;0;0" dur="1.16s" repeatCount="indefinite"/></tspan></text>
+  <text x="24" y="690" fill="#E78BAE" xml:space="preserve">⏵⏵ bypass permissions on</text>
+  </g>
+</svg>
